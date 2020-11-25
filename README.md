@@ -8,6 +8,6 @@ Python-bank revamped is the new version of python-bank with a lot new features s
 - And more
 
 # How to install Python-bank.
-Please click here to see how to install python-bank
+Please go here for the installation guide https://github.com/lidistat67/python-bank-revamped/wiki/Installation
 
 # If you experience any bug please submit it to the issues tab.
